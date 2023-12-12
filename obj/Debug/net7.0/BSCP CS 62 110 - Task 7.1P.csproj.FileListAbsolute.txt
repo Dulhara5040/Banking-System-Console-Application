@@ -1,0 +1,14 @@
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.AssemblyInfoInputs.cache
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.AssemblyInfo.cs
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.csproj.CoreCompileInputs.cache
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\bin\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.exe
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\bin\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.deps.json
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\bin\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.runtimeconfig.json
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\bin\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.dll
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\bin\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.pdb
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.dll
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\refint\BSCP CS 62 110 - Task 7.1P.dll
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.pdb
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\BSCP CS 62 110 - Task 7.1P.genruntimeconfig.cache
+E:\Cicra\BSC\Semester 2\OOD\BSCP CS 62 110 - Task 7.1P\obj\Debug\net7.0\ref\BSCP CS 62 110 - Task 7.1P.dll

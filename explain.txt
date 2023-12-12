@@ -1,0 +1,20 @@
+Transaction Class Hierarchy:
+
+Transaction is an abstract base class representing various banking transactions. It has common properties like _amount, _success, _executed, _reversed, and _dateStamp. It also defines abstract methods Execute() and Rollback() for specific transaction types.
+There are three concrete transaction types that inherit from Transaction:
+DepositTransaction: Represents a deposit into an account.
+WithdrawTransaction: Represents a withdrawal from an account.
+TransferTransaction: Represents a transfer between two accounts.
+Account Class:
+
+Account class represents a bank account and has properties for the account's name and balance.
+Bank Class:
+
+Bank class manages accounts and transactions.
+It stores lists of accounts and transactions.
+It has methods to add accounts, retrieve accounts by name, execute transactions, rollback transactions, print transaction history, and more.
+BankSystem Class:
+
+BankSystem class contains the program's main entry point (Main method).
+It allows users to interact with the banking system by choosing options from a menu.
+Options include adding accounts, depositing, withdrawing, transferring, printing account details, printing transaction history, rolling back transactions, and exiting the program.

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BSCP CS 62 110 - Task 7.1P/1.0.0": {
+        "runtime": {
+          "BSCP CS 62 110 - Task 7.1P.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSCP CS 62 110 - Task 7.1P/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

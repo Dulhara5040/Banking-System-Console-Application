@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Cicra\\BSC\\Semester 2\\OOD\\BSCP CS 62 110 - Task 7.1P\\BSCP CS 62 110 - Task 7.1P.csproj": {}
+  },
+  "projects": {
+    "E:\\Cicra\\BSC\\Semester 2\\OOD\\BSCP CS 62 110 - Task 7.1P\\BSCP CS 62 110 - Task 7.1P.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Cicra\\BSC\\Semester 2\\OOD\\BSCP CS 62 110 - Task 7.1P\\BSCP CS 62 110 - Task 7.1P.csproj",
+        "projectName": "BSCP CS 62 110 - Task 7.1P",
+        "projectPath": "E:\\Cicra\\BSC\\Semester 2\\OOD\\BSCP CS 62 110 - Task 7.1P\\BSCP CS 62 110 - Task 7.1P.csproj",
+        "packagesPath": "C:\\Users\\Saraka Fernando\\.nuget\\packages\\",
+        "outputPath": "E:\\Cicra\\BSC\\Semester 2\\OOD\\BSCP CS 62 110 - Task 7.1P\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saraka Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
